@@ -1,0 +1,41 @@
+
+nav{
+    max-height: 10%;
+}
+main{
+    max-height: 90%;
+}
+
+.jokedogimg{
+    position: relative;
+    text-align: center;
+    color: white;
+}
+.jokes{
+    position: absolute;
+    top: 35%;
+    left: 3%;
+    max-width: 40%;
+}
+.boop{
+    margin: auto;
+    position: absolute;
+    top: 32%;
+    left: 47%;
+    color: white;
+
+}
+.btn{
+    opacity: 0;
+}
+.btn:hover{
+    opacity: 100%;
+}
+h1 { font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, AppleGothic, sans-serif; font-size: 35px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 38.5px;text-shadow:1px 1px rgb(158, 158, 158); } 
+
+h3{ font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, AppleGothic, sans-serif; font-size: 25px; font-style: normal; font-variant: small-caps; font-weight: 700; line-height: 30px; text-shadow:1px 1px rgb(158, 158, 158); } 
+
+
+blockquote, a { font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, AppleGothic, sans-serif; font-size: 17px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 23px; }
+
+pre { font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, AppleGothic, sans-serif; font-size: 11px; font-style: normal; font-variant: small-caps; font-weight: 700; line-height: 23px; }
